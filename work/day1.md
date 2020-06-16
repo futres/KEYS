@@ -1,5 +1,5 @@
 Day 3 Practice
-'''
+```
 ## packages
   library(tidyverse)
   library(dplyr)
@@ -25,4 +25,4 @@ Day 3 Practice
     mpg.list.mod <- mpg.list[which(cyl.list == 8)]
   ## calculates mean
     mean(mpg.list.mod)
-    '''
+ ```
