@@ -46,10 +46,11 @@
 | Time | Task | Links |
 |--|--|--|
 | 9 am | Check In | <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
-| 10 am | How to Read a Paper | <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
+| 9:30 am | How to Read a Paper | <a href="https://www.researchgate.net/publication/260526984_Semantics_in_Support_of_Biodiversity_Knowledge_Discovery_An_Introduction_to_the_Biological_Collections_Ontology_and_Related_Ontologies">Paper</a> |
 | 11 am | Discovery Environment | <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
 | 12 pm | Lunch |  |
 | 1 pm | FuTRES Data | <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
-| 2 pm | Example of Code | <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
+| 1:30 pm | Example of Code | <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
+| 2 pm | Write Code |  |
 | 4:30 pm | Check In |  <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
 
