@@ -54,3 +54,57 @@
 | 2 pm | Write Code |  |
 | 4:30 pm | Check In |  <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
 
+### WEEK 2
+
+## Monday
+| Time | Task | Links |
+|--|--|--|
+| 9 am | Check In | <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
+| 10:30 am | Introduction to Ontologies | Go over paper and figures |
+| 12 pm | Lunch |  |
+| 1 pm | Python Lesson | <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
+| 2 pm | Code Cougar Dataset |  |
+| 4:30 pm | Check In |  <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
+
+## Tuesday
+| Time | Task | Links |
+|--|--|--|
+| 9 am | Check In | <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
+| 10 am | Lab Meeting | <a href="https://arizona.zoom.us/j/92506497983">Walls Lab Meeting</a> |
+| 11 am | Discuss dataset transformations | <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
+| 12 pm | Lunch |  |
+| 1 pm | Ontology Reading Group | <a href="https://arizona.zoom.us/j/9475035621">Zoom</a> |
+| 2 pm | Code |  |
+| 4:30 pm | Check In |  <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
+
+## Wednesday
+| Time | Task | Links |
+|--|--|--|
+| 9 am | Check In | <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
+| 9:30 am | Convert code to functions |  |
+| 12 pm | Lunch |  |
+| 1 pm |  |  |
+| 4:30 pm | Check In |  <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
+
+## Thursday
+| Time | Task | Links |
+|--|--|--|
+| 9 am | Check In | <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
+| 10 am | FuTRES General Meeting | <a href="https://arizona.zoom.us/j/868148380">Zoom</a> |
+| 11am - 2 pm | Seminar | Keys Program |
+| 2 pm | FuTRES Technical Meeting | <a href="https://arizona.zoom.us/j/868148380">Zoom</a> |
+| 3 pm |  |  |
+| 4:30 pm | Check In |  <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
+
+## Friday
+| Time | Task | Links |
+|--|--|--|
+| 9 am | Check In | <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
+| 9:30 am |  |  |
+| 11 am |  |  |
+| 12 pm | Lunch |  |
+| 1 pm |  |  |
+| 1:30 pm |  |  |
+| 2 pm | Write Code |  |
+| 4:30 pm | Check In |  <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
+
