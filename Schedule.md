@@ -1,6 +1,6 @@
-### WEEK 1
+# WEEK 1
 
-## Monday
+### Monday
 | Time | Task | Links |
 |--|--|--|
 | 9 am | Meet with Meghan & Ramona | <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
@@ -11,7 +11,7 @@
 | 2-4:30 pm | Day 1 of R Basics | <a href="https://github.com/nmnh-r-users/R-Basics">R Basics Wiki</a> |
 | 4:30 pm | Check In |  <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
 
-## Tuesday
+### Tuesday
 | Time | Task | Links |
 |--|--|--|
 | 9 am | Check In | <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
@@ -21,7 +21,7 @@
 | 1-4:30 pm | Day 3 of R Basics | <a href="https://github.com/nmnh-r-users/R-Basics">R Basics Wiki</a> |
 | 4:30 pm | Check In |  <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
 
-## Wednesday
+### Wednesday
 | Time | Task | Links |
 |--|--|--|
 | 9 am | Check In | <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
@@ -42,7 +42,7 @@
 | 3-4:30 pm | Day 5 of R Basics | <a href="https://github.com/nmnh-r-users/R-Basics">R Basics Wiki</a> |
 | 4:30 pm | Check In |  <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
 
-## Friday
+### Friday
 | Time | Task | Links |
 |--|--|--|
 | 9 am | Check In | <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
@@ -54,9 +54,9 @@
 | 2 pm | Write Code |  |
 | 4:30 pm | Check In |  <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
 
-### WEEK 2
+# WEEK 2
 
-## Monday
+### Monday
 | Time | Task | Links |
 |--|--|--|
 | 9 am | Check In | <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
@@ -66,7 +66,7 @@
 | 2:30 pm | Code Cougar Dataset |  |
 | 4:30 pm | Check In |  <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
 
-## Tuesday
+### Tuesday
 | Time | Task | Links |
 |--|--|--|
 | 9 am | Check In | <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
@@ -77,7 +77,7 @@
 | 2 pm | Code |  |
 | 4:30 pm | Check In |  <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
 
-## Wednesday
+### Wednesday
 | Time | Task | Links |
 |--|--|--|
 | 9 am | Check In | <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
@@ -86,7 +86,7 @@
 | 1 pm |  |  |
 | 4:30 pm | Check In |  <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
 
-## Thursday
+### Thursday
 | Time | Task | Links |
 |--|--|--|
 | 9 am | Check In | <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
@@ -96,7 +96,7 @@
 | 3 pm |  |  |
 | 4:30 pm | Check In |  <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
 
-## Friday
+### Friday
 | Time | Task | Links |
 |--|--|--|
 | 9 am | Check In | <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
