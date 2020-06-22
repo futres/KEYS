@@ -63,7 +63,7 @@
 | 10:30 am | Introduction to Ontologies | Go over paper and figures |
 | 12 pm | Lunch |  |
 | 1 pm | Python Lesson | <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
-| 2 pm | Code Cougar Dataset |  |
+| 2:30 pm | Code Cougar Dataset |  |
 | 4:30 pm | Check In |  <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
 
 ## Tuesday
