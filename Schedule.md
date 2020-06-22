@@ -73,7 +73,7 @@
 | 10 am | Lab Meeting | <a href="https://arizona.zoom.us/j/92506497983">Walls Lab Meeting</a> |
 | 11 am | Discuss dataset transformations | <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
 | 12 pm | Lunch |  |
-| 1 pm | Ontology Reading Group | <a href="https://www.slideshare.net/dmccreary/semantic-integrationpatterns">Paper</a> <a href="https://arizona.zoom.us/j/9475035621">Zoom</a> |
+| 1 pm | Ontology Reading Group | <a href="https://www.slideshare.net/dmccreary/semantic-integrationpatterns">Paper</a>; <a href="https://arizona.zoom.us/j/9475035621">Zoom</a> |
 | 2 pm | Code |  |
 | 4:30 pm | Check In |  <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
 
