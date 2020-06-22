@@ -32,7 +32,7 @@
 | 3:30-4:30 pm | Introduction to Functions in R | <a href="https://jcoliver.github.io/learn-r/007-intro-functional-programming.html">R Functions Tutorial</a> |
 | 4:30 pm | Check In |  <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
 
-## Thursday
+### Thursday
 | Time | Task | Links |
 |--|--|--|
 | 9 am | Check In | <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
