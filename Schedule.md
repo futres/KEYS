@@ -81,7 +81,7 @@
 | Time | Task | Links |
 |--|--|--|
 | 9 am | Check In | <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
-| 9:30 am | Convert code to functions |  |
+| 9:30 am | Convert code to functions | <a href="https://geome-db.org/workbench/template">GEOME</a> |
 | 12 pm | Lunch |  |
 | 1 pm |  |  |
 | 4:30 pm | Check In |  <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
