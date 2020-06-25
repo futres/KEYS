@@ -1,5 +1,7 @@
 # WEEK 1
 
+06.15.2020-06.19.2020
+
 ### Monday
 | Time | Task | Links |
 |--|--|--|
@@ -55,6 +57,8 @@
 | 4:30 pm | Check In |  <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
 
 # WEEK 2
+
+06.22.2020-06.26.2020
 
 ### Monday
 | Time | Task | Links |
