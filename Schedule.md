@@ -112,3 +112,50 @@
 | 2 pm | Write Code |  |
 | 4:30 pm | Check In |  <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
 
+# WEEK 3
+
+06.29.2020-07.02.2020
+
+### Monday
+| Time | Task | Links |
+|--|--|--|
+| 9 am | Check In with Kai | <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
+| 9:30 am | Make function for matching template mapping file |  |
+| 12 pm | Lunch |  |
+| 1 pm | Python Lesson | <a href="https://arizona.zoom.us/j/99966973035">Zoom</a> |
+| 2:30 pm | Create mapping file for ontology terms in cougar dataset | see ontology codebook in mapping files and <a href="https://geome-db.org/workbench/template">GEOME (measurementType DEF)</a> |
+| 4:30 pm | Check In with Kai |  <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
+
+### Tuesday
+| Time | Task | Links |
+|--|--|--|
+| 9 am | Check In | <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
+| 10 am | Lab Meeting | <a href="https://arizona.zoom.us/j/92506497983">Walls Lab Meeting</a> |
+| 11 am | Continue making functions |  |
+| 12 pm | Lunch |  |
+| 1 pm | Ontology Reading Group | <a href="https://www.slideshare.net/dmccreary/semantic-integrationpatterns">Paper</a>; <a href="https://arizona.zoom.us/j/9475035621">Zoom</a> |
+| 2 pm | Create function for making a long version of the data |  |
+| 4:30 pm | Check In |  <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
+
+### Wednesday
+| Time | Task | Links |
+|--|--|--|
+| 9 am | Check In | <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
+| 9:30 am | Continue making functions |  |
+| 12 pm | Lunch |  |
+| 1 pm | Make functions more general |  |
+| 4:30 pm | Check In |  <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
+
+### Thursday
+| Time | Task | Links |
+|--|--|--|
+| 9 am | Check In | <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
+| 10 am | FuTRES General Meeting | <a href="https://arizona.zoom.us/j/868148380">Zoom</a> |
+| 11am - 2 pm | Seminar | Keys Program |
+| 2 pm | FuTRES Technical Meeting | <a href="https://arizona.zoom.us/j/868148380">Zoom</a> |
+| 3 pm | Create documentation for functions |  |
+| 4:30 pm | Check In |  <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
+
+### Friday
+
+Day off!
