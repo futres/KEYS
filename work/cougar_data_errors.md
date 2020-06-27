@@ -10,3 +10,12 @@ cougar_sex <- function(x, y) {
   }
 }
 ```
+piping not working 
+```
+cougar_data %>%
+cougar_status("Status")%>%
+cougar_sex("Sex")%>%
+cougar_melt("Length", "Weight")%>%
+cougar_add_col()%>%
+cougar_measurement_unit("measurementUnit", "variable")
+```
