@@ -159,3 +159,60 @@
 ### Friday
 
 Day off!
+
+# WEEK 4
+
+07.06.2020-07.10.2020
+
+### Monday
+| Time | Task | Links |
+|--|--|--|
+| 9 am | Check In | <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
+| 9:30 am |  |
+| 12 pm | Lunch |  |
+| 1 pm | Python Lesson | <a href="https://arizona.zoom.us/j/99966973035">Zoom</a> |
+| 2:30 pm |  |  |
+| 4:30 pm | Check In |  <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
+
+### Tuesday
+| Time | Task | Links |
+|--|--|--|
+| 9 am | Check In | <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
+| 10 am | Lab Meeting | <a href="https://arizona.zoom.us/j/92506497983">Walls Lab Meeting</a> |
+| 11 am |  |  |
+| 12 pm | Lunch |  |
+| 1 pm |  |  |
+| 2 pm |  |  |
+| 4:30 pm | Check In |  <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
+
+### Wednesday
+| Time | Task | Links |
+|--|--|--|
+| 9 am | Check In | <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
+| 9:30 am |  |  |
+| 12 pm | Lunch |  |
+| 1 pm |  |  |
+| 4:30 pm | Check In |  <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
+
+### Thursday
+| Time | Task | Links |
+|--|--|--|
+| 9 am | Check In | <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
+| 10 am | FuTRES General Meeting | <a href="https://arizona.zoom.us/j/868148380">Zoom</a> |
+| 11am - 2 pm | Seminar | Keys Program |
+| 2 pm | FuTRES Technical Meeting | <a href="https://arizona.zoom.us/j/868148380">Zoom</a> |
+| 3 pm |  |  |
+| 4:30 pm | Check In |  <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
+
+### Friday
+| Time | Task | Links |
+|--|--|--|
+| 9 am | Check In | <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
+| 9:30 am |  |  |
+| 11 am | Machine Learning with Faryad | <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
+| 12 pm | Lunch |  |
+| 1 pm |  |  |
+| 1:30 pm |  |  |
+| 2 pm |  |  |
+| 4:30 pm | Check In |  <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
+
