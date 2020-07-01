@@ -141,9 +141,9 @@
 | Time | Task | Links |
 |--|--|--|
 | 9 am | Check In | <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
-| 9:30 am | Continue making functions |  |
+| 9:30 am | Functions: grepl, piping, make more general |  |
 | 12 pm | Lunch |  |
-| 1 pm | Make functions more general |  |
+| 1 pm | Python | <a href="https://arizona.zoom.us/j/99966973035">Zoom</a> |
 | 4:30 pm | Check In |  <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
 
 ### Thursday
