@@ -168,7 +168,7 @@ Day off!
 | Time | Task | Links |
 |--|--|--|
 | 9 am | Check In | <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
-| 9:30 am | Chat with a computer scientist |
+| 9:30 am | Chat with a computer scientist | <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
 | 12 pm | Lunch | <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
 | 1 pm | Python Lesson | <a href="https://arizona.zoom.us/j/99966973035">Zoom</a> |
 | 2:30 pm |  |  |
