@@ -202,7 +202,7 @@ Day off!
 | 11am - 2 pm | Seminar | Keys Program |
 | 2 pm | FuTRES Technical Meeting | <a href="https://arizona.zoom.us/j/868148380">Zoom</a> |
 | 3 pm |  |  |
-| 4:30 pm | Check In |  <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
+| 4:30 pm | No Check In Today |  |
 
 ### Friday
 | Time | Task | Links |
@@ -211,7 +211,7 @@ Day off!
 | 9:30 am |  |  |
 | 11 am | Machine Learning with Faryad | <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
 | 12 pm | Lunch |  |
-| 1 pm |  |  |
+| 1 pm | Make functions with Neeka | <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
 | 1:30 pm |  |  |
 | 2 pm |  |  |
 | 4:30 pm | Check In |  <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
