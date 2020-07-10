@@ -209,9 +209,60 @@ Day off!
 |--|--|--|
 | 9 am | Check In | <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
 | 9:30 am | Read paper for Ontology Reading Group | <a href="https://protege.stanford.edu/publications/ontology_development/ontology101.pdf">Paper</a> |
-| 11 am | Machine Learning with Faryad | <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
 | 12 pm | Lunch |  |
 | 1 pm | Make functions with Neeka | <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
-| 2:30 pm |  |  |
+| 2:15 pm | Machine Learning with Faryad | <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
 | 4:30 pm | Check In |  <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
 
+# WEEK 5
+
+07.13.2020-07.17.2020
+
+### Monday
+| Time | Task | Links |
+|--|--|--|
+| 9 am | Check In | <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
+| 9:30 am | Comment code |  |
+| 12 pm | Lunch |  |
+| 1 pm |  |  |
+| 2:00 pm | Function with Ken | <a href="https://arizona.zoom.us/j/99966973035">Zoom</a> |
+| 4:30 pm | Check In |  <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
+
+### Tuesday
+| Time | Task | Links |
+|--|--|--|
+| 9 am | Check In | <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
+| 10 am | Lab Meeting | <a href="https://arizona.zoom.us/j/92506497983">Walls Lab Meeting</a> |
+| 11 am |  |  |
+| 12 pm | Lunch |  |
+| 1 pm | Ontology Reading Group | <a href="https://protege.stanford.edu/publications/ontology_development/ontology101.pdf">Paper</a>; <a href="https://arizona.zoom.us/j/9475035621">Zoom</a> |
+| 2 pm |  |  |
+| 4:30 pm | Check In |  <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
+
+### Wednesday
+| Time | Task | Links |
+|--|--|--|
+| 9 am | Check In | <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
+| 9:30 am |  |  |
+| 12 pm | Lunch |  |
+| 1 pm |  |  |
+| 4:30 pm | Check In |  <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
+
+### Thursday
+| Time | Task | Links |
+|--|--|--|
+| 9 am | Check In | <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
+| 10 am | FuTRES General Meeting | <a href="https://arizona.zoom.us/j/868148380">Zoom</a> |
+| 11am - 2 pm | Seminar | Keys Program |
+| 2 pm |  |  |
+| 3 pm |  |  |
+| 4:30 pm | Check In |  <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
+
+### Friday
+| Time | Task | Links |
+|--|--|--|
+| 9 am | Check In | <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
+| 9:30 am |  |  |
+| 12 pm | Lunch |  |
+| 1 pm |  |  |
+| 4:30 pm | Check In |  <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
