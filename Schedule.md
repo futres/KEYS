@@ -208,11 +208,10 @@ Day off!
 | Time | Task | Links |
 |--|--|--|
 | 9 am | Check In | <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
-| 9:30 am |  |  |
+| 9:30 am | Read paper for Ontology Reading Group | <a href="https://protege.stanford.edu/publications/ontology_development/ontology101.pdf">Paper</a> |
 | 11 am | Machine Learning with Faryad | <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
 | 12 pm | Lunch |  |
 | 1 pm | Make functions with Neeka | <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
-| 1:30 pm |  |  |
-| 2 pm |  |  |
+| 2:30 pm |  |  |
 | 4:30 pm | Check In |  <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
 
