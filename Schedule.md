@@ -252,6 +252,7 @@ Day off!
 | Time | Task | Links |
 |--|--|--|
 | 9 am | Check In | <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
+| 9:15 am | John Deck | <a href="https://arizona.zoom.us/j/97026119349">Zoom</a> |
 | 10 am | FuTRES General Meeting | <a href="https://arizona.zoom.us/j/868148380">Zoom</a> |
 | 11am - 2 pm | Seminar | Keys Program |
 | 2 pm |  |  |
